@@ -1,0 +1,5 @@
+= A Fullstack project with JWT authentication
+
+This project shows how to authenticate with JWT from an
+link:frontend/README.adoc[Angular frontend] to a
+link:backend/README.adoc[Spring Boot backend].
